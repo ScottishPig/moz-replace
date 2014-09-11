@@ -1,0 +1,44 @@
+
+// NOTE: Replacements happen from the top down.
+// If the top element changes X to Y, then a later element changes Y to Z, 
+// all Xes become Zs.
+
+// NOTE: This is purposefully a dumb replace.
+// Unless you put whitespace before and after keys and values, these words
+// will be replaced even if they're contained in other words. Conceivably,
+// you could change all instances of a single letter to a different 
+// letter / symbol (and watch all the links on a web page break).
+
+// NOTE: Replacements are case-sensitive
+
+var replacements = {
+	"Millennial": "Flappy Bird",
+	"developer": "laser mecha-astronaut",
+	"Developer": "Laser Mecha-Astronaut",
+
+	"banner": "emoticon",
+	"Banner": "Emoticon",
+
+	"interstitial": "water slide",
+	"Interstitial": "Water Slide",
+
+	"Operations Engineering": "Goat Stacking",
+	"Android": "Band-Aid",
+	"iPhone": "PeeStain",
+	
+	"carrier": "terrier",
+	"handset": "bananaphone",
+	"quote": "boat",
+	"Face": "Space",
+
+	"height": "banana-levels",
+	"expert": "soothsayer",
+	"best": "battle-scarred",
+	"mobile": "rocketlike",
+	"variable": "battle droid",
+	"screenshot": "mural",
+
+	"Microsoft": "Microgodzilla",
+
+	"Mark": "Supreme Being"
+};
