@@ -25,11 +25,14 @@ var replacements = {
 	"Operations Engineering": "Goat Stacking",
 	"Android": "Band-Aid",
 	"iPhone": "PeeStain",
+	"Apple": "Slapple",
+	"Microsoft": "Microgodzilla",
+	"Google": "Trogdor",
 	
 	"carrier": "terrier",
 	"handset": "bananaphone",
 	"quote": "boat",
-	"Face": "Space",
+	"Facebook": "Spamship",
 
 	"height": "banana-levels",
 	"expert": "soothsayer",
@@ -38,7 +41,6 @@ var replacements = {
 	"variable": "battle droid",
 	"screenshot": "mural",
 
-	"Microsoft": "Microgodzilla",
 
 	"Mark": "Supreme Being"
 };
